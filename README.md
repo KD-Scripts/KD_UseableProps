@@ -1,7 +1,8 @@
 # KD_UseableProps
 
-
 There are 30+ props preconfigured
+
+Discord: https://discord.gg/WfGAnVFVBY
 
 FOR OX_INVENTORY
 ------------------------------------------------
