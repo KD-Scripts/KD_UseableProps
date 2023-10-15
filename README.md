@@ -1,5 +1,8 @@
 # KD_UseableProps
 
+
+There are 30+ props preconfigured
+
 FOR OX_INVENTORY
 ------------------------------------------------
 	["avengersassemble1"] = {
